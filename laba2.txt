@@ -1,6 +1,1 @@
-
-<<<<<<< HEAD
-pervoe
-=======
-pervoe
->>>>>>> 823c4b232563e310dd539b562bfe65eb25851632
+iz mastera
